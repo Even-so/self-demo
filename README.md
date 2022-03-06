@@ -1,4 +1,4 @@
-# huawei
+# self-demo
 
 ## Project setup
 ```
